@@ -33,7 +33,7 @@ public class _4_ShareACandyWithAnIntent {
     public static final String mCandyImageUrl = "";
 
     private static DetailActivity detailActivity;
-    private static boolean onOptionsItemSelected_result = true;
+    private static boolean onOptionsItemSelected_result = false;
     private static boolean called_createShareIntent = false;
     private static boolean created_intent = false;
     private static boolean set_type = false;
